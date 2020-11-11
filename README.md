@@ -121,7 +121,7 @@ The frontend of the application was tested using Jest and the React-render-libra
 ### Other Resources
 
 Presentation:
-https://docs.google.com/presentation/d/1yfI5_kaGYIr42AraKW-0YfyVw7B10xdd/edit#slide=id.p5
+https://drive.google.com/file/d/18WT3GHOPp2F1y0-33UtGdEDbXaohPTV3/view?usp=sharing
 
 ### Authors
 Adama Kabba
